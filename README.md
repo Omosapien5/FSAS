@@ -3,7 +3,7 @@
 > *Sacrifice stability for survival. Find the truth before the town consumes itself.*
 
 <p align="center">
-  <img src=Media/logo.png" alt="Project Logo" width="400">
+  <img src="Media/logo.png" alt="Project Logo" width="400">
 </p>
 
 ## Overview
