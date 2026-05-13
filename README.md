@@ -33,8 +33,8 @@ The game is structured around a strict three-phase daily cycle:
 *Goal: Build the base technical architecture and validate logical systems.*
 - [x] **Game Design Document (GDD) & Core Concepts:** General concept, game flow, and mathematical balance defined.
 - [x] **Version Control & Architecture Setup:** Repository setup and basic structure.
-- [ ] **Data Architecture:** `ScriptableObjects` architecture for databases (items, races, classes).
-- [ ] **Managers:** Implementation of global Managers (`GameManager`, `TimeManager`, `ResourceManager`).
+- [x] **Data Architecture:** `ScriptableObjects` architecture for databases (items, races, classes).
+- [x] **Managers:** Implementation of global Managers (`GameManager`, `TimeManager`, `ResourceManager`).
 - [ ] **Core Systems Implementation:** Time system logic, Base economy (Consumption & AP), and Corkboard logic engine.
 - [ ] **UI/UX Prototyping:** Grayboxing the main screen and Mayor's desk interface.
 
